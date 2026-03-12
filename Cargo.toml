@@ -18,9 +18,9 @@ path = "src/libgcollections/lib.rs"
 
 [dependencies]
 
-num-integer = "0.1.44"
-num-traits = "0.2.14"
-bit-set = "0.5.0"
+num-integer = "0.1.46"
+num-traits = "0.2.19"
+bit-set = "0.9.1"
 trilean = "1.1.0"
 
 [features]
